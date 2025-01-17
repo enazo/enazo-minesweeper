@@ -3,6 +3,7 @@
 ## Contribution
 修改sprite_enazo.png可定制主题
 
+  ![Alt](https://raw.githubusercontent.com/enazo/enazo-minesweeper/refs/heads/main/src/Minesweeper/sprite_enazo.png)
 ## TODO
 音效等
 
