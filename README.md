@@ -1,5 +1,7 @@
 基于 [Vue Minesweeper](https://github.com/elevista/vue-minesweeper)
 
+  [Demo](https://pinkki.top/enazo_ms.html)
+  
 ## Contribution
 修改sprite_enazo.png可定制主题
 
